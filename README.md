@@ -1,4 +1,4 @@
-# Summer of Side Projects 2022
+# Summer of Side Projects 2023
 
 <!-- fill things out -->
 
