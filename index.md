@@ -37,7 +37,7 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
     .heatMap tr:nth-child(3) { background: green; }
 </style>
 
-<div class="heatMap">
+<!-- <div class="heatMap"> -->
 
 
 |   |   |
@@ -49,4 +49,4 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 |**Friday**| Workshop |
 |**Saturday and Sunday**| Take a break and think of an amazing idea :)|
 
-</div>
+<!-- </div> -->
