@@ -85,31 +85,31 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
       <td>Project Submission for the Previous Week Due</td>
     </tr>
   </tbody>
-  <tody>
+  <tbody>
     <tr>
       <td><b>Tuesday</b></td>
       <td>Nothing</td>
     </tr>
   </tbody>
-  <tody>
+  <tbody>
     <tr>
       <td><b>Wednesday</b></td>
       <td>Idea Submission Due</td>
     </tr>
   </tbody>
-  <tody>
+  <tbody>
     <tr>
       <td><b>Thusday</b></td>
       <td>Nothing</td>
     </tr>
   </tbody>
-  <tody>
+  <tbody>
     <tr>
       <td><b>Friday</b></td>
       <td>Workshop</td>
     </tr>
   </tbody>
-  <tody>
+  <tbody>
     <tr>
       <td><b>Saturday and Sunday</b></td>
       <td>Take a break and think of an amazing idea :)</td>
