@@ -8,7 +8,7 @@ title: Home
     color: #784228;
 }
 
-.heatMap {
+/* .heatMap {
         width: 70%;
         text-align: center;
     }
@@ -19,7 +19,7 @@ title: Home
     }
     .heatMap tr:nth-child(1) { background: red; }
     .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
+    .heatMap tr:nth-child(3) { background: green; } */
 
 table {
   border-collapse: collapse;
@@ -29,6 +29,7 @@ table {
 th, td {
   border: 1px solid black;
   padding: 5px;
+  color: black;
 }
 </style>
 
