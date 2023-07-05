@@ -22,7 +22,7 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 - Project Submission due: **Friday 11:59pm**
 - Professional Development sessions will be Sunday evenings or midweek evenings. -->
 
-<style>
+<!-- <style>
     .heatMap {
         width: 70%;
         text-align: center;
@@ -35,7 +35,7 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
     .heatMap tr:nth-child(1) { background: red; }
     .heatMap tr:nth-child(2) { background: orange; }
     .heatMap tr:nth-child(3) { background: green; }
-</style>
+</style> -->
 
 <!-- <div class="heatMap"> -->
 
