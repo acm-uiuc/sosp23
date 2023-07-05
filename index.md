@@ -73,18 +73,48 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 |**Saturday and Sunday**| Take a break and think of an amazing idea :)| -->
 
 <table border="1">
-<thead>
-<tr>
-<th>Header 1</th>
-<th>Header 2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Cell 1</td>
-<td>Cell 2</td>
-</tr>
-</tbody>
+  <!-- <thead>
+    <tr>
+      <td><b>Monday</b></td>
+      <td>Project Submission for the Previous Week Due</td>
+    </tr>
+  </thead> -->
+  <tbody>
+    <tr>
+      <td><b>Monday</b></td>
+      <td>Project Submission for the Previous Week Due</td>
+    </tr>
+  </tbody>
+  <tody>
+    <tr>
+      <td><b>Tuesday</b></td>
+      <td>Nothing</td>
+    </tr>
+  </tbody>
+  <tody>
+    <tr>
+      <td><b>Wednesday</b></td>
+      <td>Idea Submission Due</td>
+    </tr>
+  </tbody>
+  <tody>
+    <tr>
+      <td><b>Thusday</b></td>
+      <td>Nothing</td>
+    </tr>
+  </tbody>
+  <tody>
+    <tr>
+      <td><b>Friday</b></td>
+      <td>Workshop</td>
+    </tr>
+  </tbody>
+  <tody>
+    <tr>
+      <td><b>Saturday and Sunday</b></td>
+      <td>Take a break and think of an amazing idea :)</td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
