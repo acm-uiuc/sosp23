@@ -20,6 +20,16 @@ title: Home
     .heatMap tr:nth-child(1) { background: red; }
     .heatMap tr:nth-child(2) { background: orange; }
     .heatMap tr:nth-child(3) { background: green; }
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
 </style>
 
 ![SOSP banner image](assets/banner.jpg)
@@ -53,13 +63,28 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 <div class="heatMap">
 
 
-|   |   |
+<!-- |   |   |
 |:---:|:---:|
 |**Monday**| Project Submission for the Previous Week Due |
 |**Tuesday**| Nothing |
 |**Wedneday**| Idea Submission Due |
 |**Thursday**| Nothing |
 |**Friday**| Workshop |
-|**Saturday and Sunday**| Take a break and think of an amazing idea :)|
+|**Saturday and Sunday**| Take a break and think of an amazing idea :)| -->
+
+<table border="1">
+<thead>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cell 1</td>
+<td>Cell 2</td>
+</tr>
+</tbody>
+</table>
 
 </div>
