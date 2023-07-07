@@ -32,7 +32,12 @@ cover: false
               {{ post.title }}
             </a>
             {% endif %} -->
-            {% if post.title == "Chatbot" %}
+            <!-- {% if post.title == "Chatbot" %}
+            <a class="post-link" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+            {% endif %} -->
+            {% if post.title != "Chatbots"%}
             <a class="post-link" href="{{ post.url }}">
               {{ post.title }}
             </a>
