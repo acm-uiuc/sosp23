@@ -25,7 +25,7 @@ cover: false
           {% for post in collection.docs %}
           <div class="post-wrapper">
             {% if collection.title == "Workshops" %}
-            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%d" }}</time>
+            <!-- <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%d" }}</time> -->
             {% endif %}
             <a class="post-link" href="{{ post.url }}">
               {{ post.title }}
