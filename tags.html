@@ -17,6 +17,7 @@ title: Tags
 </ul>
 
 {% for tag in alltags %}
+  {% if tag.name == "Tools" || tag.name == "Info"}
   <h2 class="nice-title" id="{{ tag.name }}">{{ tag.name }}</h2>
   <ul>
     {%- for document in alldocs -%}
@@ -25,4 +26,5 @@ title: Tags
       {% endif %}
     {% endfor %}
   </ul>
+  {% endif %}
 {% endfor %}
