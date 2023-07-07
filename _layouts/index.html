@@ -27,13 +27,15 @@ cover: false
             {% if collection.title == "Workshops" %}
             <!-- <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%d" }}</time> -->
             {% endif %}
-            {% if collection.title != "Workshops" %}
+            <!-- {% if collection.title != "Workshops" %}
             <a class="post-link" href="{{ post.url }}">
               {{ post.title }}
             </a>
-            {% endif %}
+            {% endif %} -->
             {% if post.title == "Chatbot" %}
-            <a>We'll update this with each workshop</a>
+            <a class="post-link" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
             {% endif %}
           </div>
           {% endfor %}
